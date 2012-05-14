@@ -1,0 +1,44 @@
+### c - 1000
+Primes: 1000
+Counter: 7919
+Time elapsed: 22ms
+
+#### python - standard - 1000
+primes 1
+Primes:  1000
+Counter: 7919
+primes_1 took 782.309 ms
+primes 2
+Primes:  1000
+Counter: 7919
+primes_2 took 777.841 ms
+primes 3
+Primes:  1000
+Counter: 7919
+primes_3 took 676.002 ms
+primes 1
+Primes:  1000
+Counter: 7919
+primes_1 took 777.376 ms
+primes 2
+
+### python - pypy - 1000
+primes 1
+Primes:  1000
+Counter: 7919
+primes_1 took 99.731 ms
+primes 2
+Primes:  1000
+Counter: 7919
+primes_2 took 82.745 ms
+primes 3
+Primes:  1000
+Counter: 7919
+primes_3 took 96.421 ms
+
+### java - 1000
+Primes: 1000
+Counter: 7919
+        0.31 real         0.30 user         0.05 sys
+
+~ Fin ~
